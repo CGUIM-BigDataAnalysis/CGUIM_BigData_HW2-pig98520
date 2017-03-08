@@ -27,7 +27,6 @@ Sys.Date()
 ##運作環境資訊擷取
 ```{r}
 sessionInfo()
-installed.packages()
 ```
 
 
