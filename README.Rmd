@@ -1,3 +1,8 @@
+---
+title: "長庚大學 大數據分析方法 作業二"
+output: github_document
+---
+
 ##數值變數運算
 ```{r}
 num1<-3561
